@@ -1,7 +1,7 @@
 ### <Olá programador> ✌
 
 <br>
-<img src="https://user-images.githubusercontent.com/88870257/195658830-c1171611-d965-4d76-a6a3-9d72183448cc.gif" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/88870257/195658830-c1171611-d965-4d76-a6a3-9d72183448cc.gif" width="220" height="220"/>
 <br>
 
 ![soulja-boy-pepe](https://user-images.githubusercontent.com/88870257/195650542-ba12f4a0-06eb-4cb3-9c9d-258ab1ae8200.gif)
