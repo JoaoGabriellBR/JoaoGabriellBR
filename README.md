@@ -1,6 +1,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/88870257/216483665-1dcebe84-5098-422d-abaa-11abaee29ea3.png"
-" width="100%" height="400"/>
+" width="100%" height="380"/>
 
 <div align = "center">
   <a  href = "https://github.com/JoaoGabriellBR"> <br> <br>
