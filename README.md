@@ -1,7 +1,7 @@
 <br>
-<img src="https://user-images.githubusercontent.com/88870257/216483665-1dcebe84-5098-422d-abaa-11abaee29ea3.png"
+<img src="https://github.com/JoaoGabriellBR/JoaoGabriellBR/assets/88870257/1672cb47-806d-43ef-aa09-b2e4e22085d0"
 " width="100%" height="100%"/>
-
+                            
 <div align = "center">
   <a  href = "https://github.com/JoaoGabriellBR"> <br> <br>
   <img height = "180em"  src= "https://github-readme-stats.vercel.app/api?username=JoaoGabriellBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
