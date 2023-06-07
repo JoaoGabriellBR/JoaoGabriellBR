@@ -1,6 +1,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/88870257/216483665-1dcebe84-5098-422d-abaa-11abaee29ea3.png"
-" width="100%" height="360"/>
+" width="100%" height="100%"/>
 
 <div align = "center">
   <a  href = "https://github.com/JoaoGabriellBR"> <br> <br>
@@ -21,9 +21,7 @@
     <img align="center" alt="Joao-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-plain.svg">
     <img align="center" alt="Joao-Bulma" height="30" width="40" src="https://iconape.com/wp-content/files/aj/349519/svg/bulma-seeklogo.com.svg">
   </div> <br> <br>
-                                                                                                                                               
-                                                                                                                                               
-  
+                                                                                                                                                                                                                                                                                      
 <div align='center'> 
   <a href = "mailto:joaoname9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaogabriel-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
