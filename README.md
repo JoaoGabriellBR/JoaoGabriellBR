@@ -1,13 +1,14 @@
 <br>
 <img src="https://github.com/JoaoGabriellBR/JoaoGabriellBR/assets/88870257/1672cb47-806d-43ef-aa09-b2e4e22085d0"
 " width="100%" height="100%"/>
+
                             
 <div align = "center">
-  <a  href = "https://github.com/JoaoGabriellBR"> <br> <br>
-  <img height = "180em"  src= "https://github-readme-stats.vercel.app/api?username=JoaoGabriellBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height = "180em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriellBR&layout=compact&langs_count=7&theme=dark"/>
+  <br> <br>
+  <img height = "200em"  src= "https://github-readme-stats.vercel.app/api?username=JoaoGabriellBR&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img height = "200em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriellBR&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div> <br>
-  
+
   <div style="display: inline_block" align='center'><br>
     <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
