@@ -5,8 +5,8 @@
                             
 <div align = "center">
   <br> <br>
-  <img height = "200em"  src= "https://github-readme-stats.vercel.app/api?username=JoaoGabriellBR&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-  <img height = "200em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriellBR&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+  <img height = "180em"  src= "https://github-readme-stats.vercel.app/api?username=JoaoGabriellBR&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img height = "180em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriellBR&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div> <br>
 
   <div style="display: inline_block" align='center'><br>
