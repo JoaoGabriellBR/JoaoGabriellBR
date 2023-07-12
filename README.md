@@ -19,7 +19,7 @@
     <img align="center" alt="Joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
     <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     <img align="center" alt="Joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    <img align="center" alt="Joao-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-plain.svg">
+    <img align="center" alt="Joao-Prisma" height="30" width="40" src="https://www.svgrepo.com/show/373776/light-prisma.svg">
     <img align="center" alt="Joao-Bulma" height="30" width="40" src="https://iconape.com/wp-content/files/aj/349519/svg/bulma-seeklogo.com.svg">
   </div> <br> <br>
                                                                                                                                                                                                                                                                                       
