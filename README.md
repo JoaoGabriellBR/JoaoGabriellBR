@@ -1,31 +1,29 @@
 <br>
-<img src="https://github.com/JoaoGabriellBR/JoaoGabriellBR/assets/88870257/1672cb47-806d-43ef-aa09-b2e4e22085d0"
-" width="100%" height="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=480&lines=Desenvolvedor+Web+Full+Stack;T%C3%A9cnico+em+eletr%C3%B4nica+e+rob%C3%B3tica;Sempre+aprendendo+coisas+novas!)](https://git.io/typing-svg)
+
+
+  <p>🚀 Profissional de tecnologia com ampla experiência em desenvolvimento web e infraestrutura.</p>
+  <p>🤖 Nos momentos livres, procuro trabalhar em projetos pessoais e alimentar ainda mais o meu conhecimento em tecnologia.</p>
+  <p>🧠 Atualmente estou aprendendo React Native.</p>
+  <p>☀  Trabalhando em um projeto de energia solar e robótica.</p>
 
                             
-<div align = "center">
+  <div style="display: inline_block" align='start'><br>
+    <h3>  💻 Tecnologias e ferramentas:</h3> <br>
+    <img align="center" alt="Joao-Js" src="https://skillicons.dev/icons?i=react,nodejs,ts,js,nextjs,prisma,mysql,postgresql,html,css,scss">
+  </div> <br>
+                                                                                                                                                                                                                                                           
+<div align='start'>
+  <h3> ✉ Contato:</h3> <br>
+  <a href = "mailto:joaoname9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaogabriel-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div align = "start">
   <br> <br>
   <img height = "180em"  src= "https://github-readme-stats.vercel.app/api?username=JoaoGabriellBR&theme=react&show_icons=true&hide_border=true&count_private=true"/>
   <img height = "180em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriellBR&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div> <br>
-  <div style="display: inline_block" align='center'><br>
-    <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Joao-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Joao-Njs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
-    <img align="center" alt="Joao-Prisma" height="30" width="40" src="https://github.com/JoaoGabriellBR/JoaoGabriellBR/assets/88870257/80d1dd8e-9b73-46d1-ad94-9753ea874c3a">
-    <img align="center" alt="Joao-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-    <img align="center" alt="Joao-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" alt="Joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-    <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-    <img align="center" alt="Joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    <img align="center" alt="Joao-Bulma" height="30" width="40" src="https://iconape.com/wp-content/files/aj/349519/svg/bulma-seeklogo.com.svg">
-  </div> <br> <br>
-                                                                                                                                                                                                                                                                                      
-<div align='center'> 
-  <a href = "mailto:joaoname9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaogabriel-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 ![Snake animation](https://github.com/JoaoGabriellBR/JoaoGabriellBR/blob/output/github-contribution-grid-snake.svg)
