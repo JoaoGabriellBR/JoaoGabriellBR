@@ -3,11 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=480&lines=Desenvolvedor+Web+Full+Stack;T%C3%A9cnico+em+eletr%C3%B4nica+e+rob%C3%B3tica;Sempre+aprendendo+coisas+novas!)](https://git.io/typing-svg)
 
 
-  <p>🚀 Profissional com ampla experiência em desenvolvimento web e infraestrutura.</p>
+  <p>🚀 Profissional com experiência em desenvolvimento web e infraestrutura.</p>
   <p>🤖 Nos momentos livres, procuro trabalhar em projetos pessoais e alimentar ainda mais o meu conhecimento em tecnologia.</p>
   <p>🧠 Atualmente estou aprendendo React Native.</p>
-  <p>☀  Trabalhando em um projeto de energia solar e robótica.</p>
-
                             
   <div style="display: inline_block" align='start'><br>
     <h3>  💻 Tecnologias e ferramentas:</h3> <br>
