@@ -4,18 +4,22 @@
 
 
   <p>🚀 Profissional com experiência em desenvolvimento web e infraestrutura.</p>
-  <p>🤖 Nos momentos livres, procuro trabalhar em projetos pessoais e alimentar ainda mais o meu conhecimento em tecnologia.</p>
+  <p> Nos momentos livres, procuro trabalhar em projetos pessoais e alimentar ainda mais o meu conhecimento em tecnologia.</p>
   <p>🧠 Atualmente estou aprendendo React Native.</p>
                             
   <div style="display: inline_block" align='start'><br>
     <h3>  💻 Tecnologias e ferramentas:</h3> <br>
     <img align="center" alt="Joao-Js" src="https://skillicons.dev/icons?i=react,nodejs,ts,js,nextjs,tailwind,prisma,mysql,postgresql,mongodb,html,css,scss">
   </div> <br>
-                                                                                                                                                                                                                                                           
-<div align='start'>
+
+<div style="display: inline_block" align='start'><br>
+  <h3> 🤖 Infraestrutura:</h3> <br>
+  <img align="center" alt="Joao-Js" src="https://skillicons.dev/icons?i=linux,arduino">
+</div> <br>
+                                                                                                                                                          <div align='start'>
   <h3> ✉ Contato:</h3> <br>
   <a href = "mailto:joaoname9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaogabriel-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joaogabriel-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div align = "start">
