@@ -9,13 +9,8 @@
                             
   <div style="display: inline_block" align='start'><br>
     <h3>  💻 Tecnologias e ferramentas:</h3> <br>
-    <img align="center" alt="Joao-Js" src="https://skillicons.dev/icons?i=react,nodejs,ts,js,nextjs,tailwind,prisma,mysql,postgresql,mongodb,html,css,scss">
+    <img align="center" alt="Joao-Js" src="https://skillicons.dev/icons?i=react,nodejs,ts,js,nextjs,tailwind,prisma,mysql,postgresql,mongodb,html,css,scss,linux">
   </div> <br>
-
-<div style="display: inline_block" align='start'><br>
-  <h3> 🤖 Infraestrutura:</h3> <br>
-  <img align="center" alt="Joao-Js" src="https://skillicons.dev/icons?i=linux,arduino">
-</div> <br>
                                                                                                                                                           <div align='start'>
   <h3> ✉ Contato:</h3> <br>
   <a href = "mailto:joaoname9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
