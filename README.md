@@ -4,7 +4,7 @@
 
 
   <p>🚀 Profissional com experiência em desenvolvimento web e infraestrutura.</p>
-  <p> Nos momentos livres, procuro trabalhar em projetos pessoais e alimentar ainda mais o meu conhecimento em tecnologia.</p>
+  <p>👨‍💻 Nos momentos livres, procuro trabalhar em projetos pessoais e alimentar ainda mais o meu conhecimento em tecnologia.</p>
   <p>🧠 Atualmente estou aprendendo React Native.</p>
                             
   <div style="display: inline_block" align='start'><br>
