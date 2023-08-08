@@ -9,7 +9,7 @@
                             
   <div style="display: inline_block" align='start'><br>
     <h3>  💻 Tecnologias e ferramentas:</h3> <br>
-    <img align="center" alt="Joao-Js" src="https://skillicons.dev/icons?i=react,nodejs,ts,js,nextjs,tailwind,prisma,mysql,postgresql,mongodb,html,css,scss,linux">
+    <img align="center" alt="Joao-Js" src="https://skillicons.dev/icons?i=react,nodejs,ts,js,nextjs,tailwind,prisma,mysql,postgresql,mongodb,scss,linux">
   </div> <br>
                                                                                                                                                           <div align='start'>
   <h3> ✉ Contato:</h3> <br>
