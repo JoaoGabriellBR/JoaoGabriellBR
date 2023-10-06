@@ -4,12 +4,11 @@
 
 
   <p>🚀 Profissional com experiência em desenvolvimento web e infraestrutura.</p>
-  <p>👨‍💻 Nos momentos livres, procuro trabalhar em projetos pessoais e alimentar ainda mais o meu conhecimento em tecnologia.</p>
-  <p>🧠 Atualmente estou aprendendo React Native.</p>
-                            
+  <p>👨‍💻 Nos momentos livres, procuro trabalhar em projetos pessoais e alimentar ainda mais o meu conhecimento em tecnologia.</p> 
+  
   <div style="display: inline_block" align='start'><br>
     <h3>  💻 Tecnologias e ferramentas:</h3> <br>
-    <img align="center" alt="Joao-Js" src="https://skillicons.dev/icons?i=react,nodejs,ts,js,nextjs,tailwind,prisma,mysql,postgresql,mongodb,scss,linux">
+    <img align="center" alt="Joao-Js" src="https://skillicons.dev/icons?i=react,nodejs,ts,js,nextjs,tailwind,prisma,mysql,postgresql,sass,mui,styledcomponents,linux">
   </div> <br>
                                                                                                                                                           <div align='start'>
   <h3> ✉ Contato:</h3> <br>
