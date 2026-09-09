@@ -1,51 +1,19 @@
-<!-- Galaxy Profile README Template
-     Customize this file with your own info, then rename it to README.md
-     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
-     The SVG paths below point to assets/generated/ which are auto-generated
-     by the GitHub Actions workflow or by running: python -m generator.main -->
+# João Gabriel Silva
 
-<div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
+### Desenvolvedor Full Stack Pleno
+**Node.js · NestJS · React · TypeScript**
 
-<br/>
+Full Stack com 4 anos de experiência em produção utilizando **Node.js/NestJS** no backend e **React/TypeScript** no frontend, sobre PostgreSQL, MySQL e MongoDB. Foco na construção de APIs escaláveis, modelagem de dados eficiente e arquiteturas modulares e resilientes. Experiência prática na sustentação e refatoração de sistemas legados (LoopBack, AngularJS) em convivência com novos microsserviços em migração, atuando nos setores de seguros e educação em saúde.
 
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
+## Stack principal
 
-<br/>
+- **Linguagens:** TypeScript, JavaScript, Python
+- **Backend:** Node.js, NestJS, Prisma
+- **Frontend:** React, Next.js
+- **Banco de dados:** PostgreSQL, MySQL, MongoDB
+- **DevOps & Cloud:** AWS (S3, SQS, Cognito, CloudWatch), Docker, GitHub Actions
 
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
+## Contato
 
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
-
-<br/>
-
-<details>
-<summary><strong>More about me</strong></summary>
-
-<br/>
-
-I design, develop, and create optimized applications through good development practices.
-Passionate about robotics, design, and web development.
-
-**Currently at** Paciente 360 — Uberlândia, MG
-</details>
-
-<br/>
-
-<div align="center">
-  <a href="joaoname9@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joaogabriel-silva/">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
-  </a>
-</div>
+- **LinkedIn:** [linkedin.com/in/joaogabriel-silva](https://www.linkedin.com/in/joaogabriel-silva)
+- **E-mail:** [joaoname9@gmail.com](mailto:joaoname9@gmail.com)
