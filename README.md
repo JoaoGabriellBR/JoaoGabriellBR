@@ -8,8 +8,8 @@ Full Stack com 4 anos de experiência em produção utilizando **Node.js/NestJS*
 ## Stack principal
 
 - **Linguagens:** TypeScript, JavaScript, Python
-- **Backend:** Node.js, NestJS, Prisma
-- **Frontend:** React, Next.js
+- **Backend:** Node.js, NestJS, Prisma ORM
+- **Frontend:** Angular, React, Next.js
 - **Banco de dados:** PostgreSQL, MySQL, MongoDB
 - **DevOps & Cloud:** AWS (S3, SQS, Cognito, CloudWatch), Docker, GitHub Actions
 
