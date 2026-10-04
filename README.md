@@ -3,7 +3,7 @@
 ### Desenvolvedor Full Stack Pleno
 **Node.js · NestJS · React · TypeScript · Docker · AWS**
 
-Full Stack com 4 anos de experiência em produção utilizando **Node.js/NestJS** no backend e **React/TypeScript** no frontend, sobre PostgreSQL, MySQL e MongoDB. Foco na construção de APIs escaláveis, modelagem de dados eficiente e arquiteturas modulares e resilientes. Experiência prática na sustentação e refatoração de sistemas legados (LoopBack, Angular) em convivência com novos microsserviços em migração, atuando nos setores de seguros e educação em saúde.
+Full Stack com 4 anos de experiência em produção utilizando **Node.js/NestJS** no backend e **React/TypeScript** no frontend, sobre PostgreSQL, MySQL e MongoDB. Foco na construção e manutenção de APIs escaláveis, interfaces web, modelagem de dados eficiente e arquiteturas modulares e resilientes. Experiência prática na sustentação e refatoração de sistemas legados (LoopBack, Angular) em convivência com novos microsserviços em migração, trabalhando nos setores de seguros e educação em saúde.
 
 ## Stack principal
 
