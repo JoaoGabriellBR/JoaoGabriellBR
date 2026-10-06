@@ -12,9 +12,9 @@ Full Stack com mais de 4 anos de experiência profissional utilizando **Node.js/
 - **Frontend:** Angular, React, Next.js
 - **Banco de dados:** PostgreSQL, MySQL, MongoDB
 - **DevOps & Cloud:** AWS (S3, SQS, Lambda, Cognito, CloudWatch), Docker, Git, CI/CD (GitHub Actions)
-- **Testes:** Jest, Vitest, Testing Library
-- **Observabilidade e Monitoramento:** New Relic, AWS CloudWatch
-- **IA:** Claude Code, GitHub Copilot, Antigravity
+- **Testes Automatizados:** Jest, Vitest, Testing Library
+- **Observabilidade & Quality Assurance:** New Relic, Postman, Linux, Bash Scripting
+- **IA:** Claude Code, GitHub Copilot, Gemini
 
 ## Contato
 
