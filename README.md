@@ -8,10 +8,10 @@ Full Stack com mais de 4 anos de experiência profissional utilizando **Node.js/
 ## Stack principal
 
 - **Linguagens:** TypeScript, JavaScript, Python
-- **Backend:** Node.js, NestJS, Prisma ORM
-- **Frontend:** Angular, React, Next.js
+- **Backend:** Node.js, NestJS, Prisma ORM, APIs REST
+- **Frontend:** Angular, React, Next.js, Tailwind CSS
 - **Banco de dados:** PostgreSQL, MySQL, MongoDB
-- **DevOps & Cloud:** AWS (S3, SQS, Lambda, Cognito, CloudWatch), Docker, Git, CI/CD (GitHub Actions)
+- **DevOps & Cloud:** Docker, AWS (S3, SQS, Lambda, Cognito), CI/CD (GitHub Actions), Git/GitHub
 - **Testes Automatizados:** Jest, Vitest, Testing Library
 - **Observabilidade & Quality Assurance:** New Relic, Postman, Linux, Bash Scripting
 - **IA:** Claude Code, GitHub Copilot, Gemini
